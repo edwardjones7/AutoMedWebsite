@@ -1,0 +1,309 @@
+{
+  "business": {
+    "name": "AutoMed",
+    "tagline": "The Mechanic That Comes To You",
+    "legal_name": "AutoMed",
+    "industry": "Automotive Services",
+    "business_type": "Mobile Mechanic & Roadside Assistance",
+    "description": "AutoMed is a mobile mechanic serving Vineland and the surrounding South Jersey area. Instead of requiring customers to visit a repair shop, AutoMed brings professional diagnostics, repairs, and roadside assistance directly to the customer's home, workplace, or roadside location.",
+    "headquarters": {
+      "address": "1267 NE Blvd Unit 25A",
+      "city": "Vineland",
+      "state": "New Jersey",
+      "zip": "08360",
+      "country": "United States"
+    },
+    "service_area": [
+      "Vineland",
+      "Millville",
+      "Bridgeton",
+      "South Jersey"
+    ],
+    "phone": "(856) 305-2216",
+    "hours": {
+      "monday": "7:00 AM - 10:00 PM",
+      "tuesday": "7:00 AM - 10:00 PM",
+      "wednesday": "7:00 AM - 10:00 PM",
+      "thursday": "7:00 AM - 10:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "7:00 AM - 10:00 PM",
+      "sunday": "Closed"
+    }
+  },
+  "branding": {
+    "primary_color": "#e37c14",
+    "secondary_color": "#111111",
+    "accent_color": "#ffffff",
+    "style": [
+      "Modern",
+      "Professional",
+      "Trustworthy",
+      "Bold",
+      "Mobile-first",
+      "Emergency-focused"
+    ],
+    "personality": [
+      "Reliable",
+      "Fast",
+      "Honest",
+      "Experienced",
+      "Friendly",
+      "Local"
+    ]
+  },
+  "online_presence": {
+    "website": {
+      "url": "https://automed.world",
+      "platform": "GoDaddy Website Builder 8.0",
+      "hosting": "Starfield Technologies",
+      "domain": "automed.world"
+    },
+    "social_media": {
+      "facebook": true,
+      "instagram": "@automed856",
+      "tiktok": "@automed856",
+      "youtube": {
+        "channel": "AutoMed856",
+        "content": "4 Minute Fixes",
+        "subscribers": 67
+      },
+      "yelp": {
+        "claimed": true,
+        "photos": 11
+      }
+    }
+  },
+  "services": {
+    "roadside_assistance": [
+      "Vehicle won't start",
+      "Dead battery",
+      "Jump starts",
+      "Alternator issues",
+      "Starter replacement",
+      "Flat tire assistance",
+      "Lockout assistance",
+      "Emergency diagnostics"
+    ],
+    "mobile_repairs": [
+      "Brake repairs",
+      "Battery replacement",
+      "Oil changes",
+      "Tune-ups",
+      "Suspension repairs",
+      "Engine diagnostics",
+      "Electrical repairs",
+      "HVAC repairs",
+      "Exhaust repairs",
+      "Lighting repairs",
+      "Check engine diagnostics"
+    ],
+    "maintenance": [
+      "Preventative maintenance",
+      "Routine service",
+      "Battery testing",
+      "Fluid checks",
+      "Brake inspections"
+    ],
+    "commercial": [
+      "Fleet maintenance",
+      "Contractor vehicles",
+      "Business vehicle servicing"
+    ]
+  },
+  "target_audience": {
+    "primary": [
+      {
+        "segment": "Emergency Customers",
+        "intent": "Need immediate roadside assistance or vehicle repair.",
+        "pain_points": [
+          "Car won't start",
+          "Stranded roadside",
+          "Need help immediately",
+          "Unsure who to trust"
+        ]
+      },
+      {
+        "segment": "Routine Maintenance Customers",
+        "intent": "Convenient vehicle servicing without visiting a shop.",
+        "pain_points": [
+          "Busy schedules",
+          "Avoid repair shop waiting rooms",
+          "Need trustworthy mechanic"
+        ]
+      },
+      {
+        "segment": "Commercial & Fleet Clients",
+        "intent": "Reliable maintenance partner for work vehicles.",
+        "pain_points": [
+          "Vehicle downtime",
+          "Keeping fleets operational",
+          "Preventative maintenance scheduling"
+        ]
+      }
+    ]
+  },
+  "business_goals": {
+    "primary": [
+      "Increase emergency service calls",
+      "Increase scheduled maintenance bookings",
+      "Generate online service requests",
+      "Improve local SEO rankings",
+      "Build trust through reviews",
+      "Become the top mobile mechanic in South Jersey"
+    ],
+    "secondary": [
+      "Expand commercial fleet relationships",
+      "Grow recurring maintenance customers",
+      "Leverage content marketing into qualified leads"
+    ]
+  },
+  "website_audit": {
+    "overall_score": "Poor",
+    "strengths": [
+      "Existing domain",
+      "Simple branding",
+      "Business information exists elsewhere online",
+      "Active social media presence",
+      "Video content strategy"
+    ],
+    "critical_issues": [
+      {
+        "issue": "No phone number displayed",
+        "severity": "Critical",
+        "impact": "Users cannot immediately contact the business during emergencies."
+      },
+      {
+        "issue": "No call-to-action",
+        "severity": "Critical",
+        "impact": "No conversion path for visitors."
+      },
+      {
+        "issue": "No contact form",
+        "severity": "Critical",
+        "impact": "No lead capture when phone calls are missed."
+      },
+      {
+        "issue": "Empty reviews section",
+        "severity": "High",
+        "impact": "Missed opportunity to build trust."
+      },
+      {
+        "issue": "No dedicated services page",
+        "severity": "High",
+        "impact": "Customers cannot understand full service offerings."
+      },
+      {
+        "issue": "Weak navigation",
+        "severity": "Medium",
+        "impact": "Navigation contains unfinished labels."
+      },
+      {
+        "issue": "Poor SEO",
+        "severity": "Critical",
+        "impact": "Minimal visibility for local search."
+      },
+      {
+        "issue": "No LocalBusiness schema",
+        "severity": "High",
+        "impact": "Search engines cannot understand business information."
+      },
+      {
+        "issue": "No image alt text",
+        "severity": "Medium",
+        "impact": "Accessibility and SEO deficiencies."
+      },
+      {
+        "issue": "Generic page title",
+        "severity": "Medium",
+        "impact": "Weak search performance."
+      }
+    ]
+  },
+  "conversion_opportunities": [
+    "Persistent click-to-call button",
+    "AI receptionist",
+    "24/7 service request form",
+    "Instant roadside assistance request",
+    "Google Reviews integration",
+    "Emergency banner",
+    "Live availability indicator",
+    "Online appointment scheduling",
+    "SMS contact option",
+    "Fleet quote request form"
+  ],
+  "seo_strategy": {
+    "primary_keywords": [
+      "Mobile Mechanic Vineland NJ",
+      "Roadside Assistance Vineland",
+      "Emergency Mechanic Near Me",
+      "Mobile Auto Repair South Jersey",
+      "Brake Repair Vineland",
+      "Battery Replacement Vineland",
+      "Auto Repair Vineland",
+      "Mechanic That Comes To You"
+    ],
+    "structured_data": [
+      "LocalBusiness",
+      "AutomotiveBusiness",
+      "Service",
+      "FAQ",
+      "Review",
+      "BreadcrumbList"
+    ]
+  },
+  "content_strategy": {
+    "existing_assets": [
+      "Facebook",
+      "Instagram",
+      "TikTok",
+      "YouTube repair videos",
+      "Yelp reviews"
+    ],
+    "recommended_additions": [
+      "Service pages",
+      "Emergency landing pages",
+      "Location pages",
+      "Customer testimonials",
+      "Before & after repairs",
+      "FAQ",
+      "Maintenance guides",
+      "Fleet services page",
+      "Blog",
+      "Video integration"
+    ]
+  },
+  "ideal_website_structure": [
+    "Home",
+    "Emergency Roadside Assistance",
+    "Mobile Mechanic Services",
+    "Fleet Services",
+    "About AutoMed",
+    "Reviews",
+    "FAQ",
+    "Service Areas",
+    "Contact"
+  ],
+  "design_direction": {
+    "look_and_feel": [
+      "Premium",
+      "Modern",
+      "High contrast",
+      "Automotive inspired",
+      "Fast loading",
+      "Mobile optimized"
+    ],
+    "user_experience": [
+      "One-tap phone calls",
+      "Sticky emergency CTA",
+      "Large readable typography",
+      "Trust-building sections",
+      "Fast access to booking",
+      "Minimal friction"
+    ]
+  },
+  "elenos_assessment": {
+    "fit_score": 9.8,
+    "reason": "AutoMed already invests in content creation and local marketing but lacks an effective website conversion layer. A modern, SEO-focused rebuild paired with AI-powered call handling, online booking, and trust-focused design would significantly increase lead capture without requiring additional advertising spend.",
+    "primary_pitch": "You're already generating attention through social media. The problem isn't awareness—it's conversion. Every visitor who reaches your website should be able to call, book, or request service within seconds."
+  }
+}
